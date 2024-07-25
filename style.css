@@ -3,3 +3,7 @@ text-align: left;
 font-size: 43px;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+div {
+    background-image: linear-gradient(to right, rgb(15, 235, 8), rgb(2, 64, 21));
+  }
