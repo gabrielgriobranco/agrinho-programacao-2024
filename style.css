@@ -8,3 +8,7 @@ font-weight: 300;
 div {
     background-image: linear-gradient(to right, rgb(15, 235, 8), rgb(2, 64, 21));
   }
+
+  <div style=" float: right; padding: 20px 0 20px 35px; font-family:Verdana, Geneva, sans-serif; font-size:12px;">
+    <div class="Upload">oi</div>
+</div>
