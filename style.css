@@ -31,4 +31,7 @@ p, .header, body{
   width: 75%;
 }
 
-.menu {display: inline-block;}
+.menu {
+  display: inline-block;
+  width: 25%;
+}
