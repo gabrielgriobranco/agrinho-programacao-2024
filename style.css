@@ -27,15 +27,15 @@ p, .header, body{
   margin: 0;   
 }
 
-
-
 .sub-cabecalho {
   display: flex; 
   flex-direction: row; 
   align-items: center;
 }
 
-.subcab-svg {
+
+
+.subcab-svg, .sub-cabecalho {
   font-family: "Artifika";
   font-size: 75px;
   fill: #238E23; 
