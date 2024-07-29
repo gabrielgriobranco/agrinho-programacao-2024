@@ -38,9 +38,10 @@ p, .header, body{
   font-size: 40px;
   -webkit-text-stroke-color: white;
   -webkit-text-stroke-width: 2px;
+  flex: 8.5;
 }
 
 .menu {
   display: inline-block;
-  flex: 0.2;
+  flex: 1;
 }
