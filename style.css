@@ -19,9 +19,9 @@ p, .header, body{
   line-height: 120px;
   color: white;
   font-family: "Irish Grover", serif;
-  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-width: 5px;
   -webkit-text-stroke-color: white;
-  font-size: 64px;
+  font-size: 100px;
   text-align: left;
   padding-left: 40px;
   margin: 0;   
