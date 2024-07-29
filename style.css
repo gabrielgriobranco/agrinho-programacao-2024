@@ -33,14 +33,13 @@ p, .header, body{
   align-items: center;
 }
 
-
-
 .texto-subcab {
   font-family: "Artifika";
   font-size: 75px;
-  fill: #238E23; 
-  stroke: white;
-  stroke-width: 10px; 
+  background-color: #238E23; 
+ -webkit-text-stroke-color: white;
+ -webkit-text-stroke-width: 10px;
+ flex: 8.5;
 }
 
 .menu {
