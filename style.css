@@ -35,7 +35,13 @@ p, .header, body{
   align-items: center;
 }
 
-
+.subcab-svg {
+  font-family: "Artifika";
+  font-size: 75px;
+  fill: #238E23; 
+  stroke: white;
+  stroke-width: 10px; 
+}
 
 .menu {
   object-fit:scale-down;
