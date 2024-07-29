@@ -24,7 +24,7 @@ p, .header, body{
 
 }
 
-.foliage-parallax {
+.banner {
   background-image: url("araucaria.png");
   background-attachment: fixed;
   background-position: center;
