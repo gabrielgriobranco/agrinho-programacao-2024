@@ -46,6 +46,7 @@ p, .header, body{
 }
 
 .menu {
+  background-image: url(image\ 10.png);
   object-fit:cover;
   height: 100px;
   flex: 1.5;
