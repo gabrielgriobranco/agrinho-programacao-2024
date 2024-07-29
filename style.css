@@ -27,18 +27,18 @@ p, .header, body{
 }
 
 .agronomos {
-  display: inline-block;
-  width: 75%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
   background-color: #238E23;
   font-family: "Josefin Sans";
   color: #238E23;
   font-size: 32px;
   -webkit-text-stroke-color: white;
   -webkit-text-stroke-width: 2px;
-  vertical-align: middle;
 }
 
 .menu {
   display: inline-block;
-  width: 25%;
 }
