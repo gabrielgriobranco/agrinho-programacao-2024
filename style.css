@@ -30,6 +30,7 @@ p, .header, body{
   display: flex;
   flex-direction: row;
   align-items: center;
+  height: 50px;
 
   background-color: #238E23;
   font-family: "Josefin Sans";
