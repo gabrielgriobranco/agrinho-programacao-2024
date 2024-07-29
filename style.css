@@ -25,3 +25,9 @@ p, .header, body{
   padding-left: 40px;
   margin: 0;   
 }
+
+.agronomos {
+  display: inline-block;
+}
+
+.menu {}
