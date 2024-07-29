@@ -36,10 +36,10 @@ p, .header, body{
 .texto-subcab {
   font-family: "Artifika";
   font-size: 75px;
-  background-color: #238E23; 
+  background-color: #f4cd7e; 
  flex: 8.5;
  height: 100px;
- color: #238E23;
+ color: #f4cd7e;
  text-shadow: 4px 0 #fff, -4px 0 #fff, 0 4px #fff, 0 4px #fff,
              2px 2px #fff, -2px -2px #fff, 2px -2px #fff, -2px 2px #fff;
 
