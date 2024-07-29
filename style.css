@@ -44,7 +44,7 @@ p, .header, body{
 }
 
 .menu {
-  object-fit:scale-down;
+  object-fit:contain;
   height: 100px;
   flex: 1.5;
 }
