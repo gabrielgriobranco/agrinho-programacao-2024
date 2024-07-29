@@ -31,7 +31,6 @@ p, .header, body{
 
 
 .agronomos {
-  align-items: center;
   height: 100px;
 
   background-color: #238E23;
@@ -43,7 +42,5 @@ p, .header, body{
 }
 
 .menu {
-  display: inline-block;
-  flex: 1;
   object-fit: cover;
 }
