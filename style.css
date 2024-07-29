@@ -1,13 +1,48 @@
-.topo {
-  text-align: center;
-  font-style: bold;
-  height: 538px;
-  width: 1920px;
-  line-height: 120px;
-  color: white;
-  font-family: "Josefin Sans", sans-serif;
-  font-size: 60px;
+body {
+  background-color: #F3F0E7;
+}
+
+p, .header, body{
   margin: 0;
   padding: 0;
-  background-image: url(araucaria.png);
+  border: 0;
+}
+
+.header {
+  height: 120px;
+  line-height: 120px;
+  background-color: #024B2F;
+  color: white;
+  font-family: "Josefin Sans", serif;
+  font-size: 64px;
+  text-align: center;
+  margin: 0;    
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.foliage-parallax {
+  background-image: url("araucaria.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px; 
+  height: 800px;  width: 1920px;
+  height: 800px; 
+}
+
+.image-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  font-size: 64px;
+  font-family: ArnoPro-Caption;
+  font-style:bold;
 }
