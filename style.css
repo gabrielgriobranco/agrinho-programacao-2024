@@ -41,4 +41,5 @@ p, .header, body{
 
 .menu {
   display: inline-block;
+  flex: 0.2;
 }
