@@ -35,8 +35,7 @@ p, .header, body{
   font-size: 32px;
   -webkit-text-stroke-color: white;
   -webkit-text-stroke-width: 2px;
-
-  top: 50%;
+  vertical-align: middle;
 }
 
 .menu {
