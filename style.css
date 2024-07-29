@@ -36,11 +36,7 @@ p, .header, body{
   -webkit-text-stroke-color: white;
   -webkit-text-stroke-width: 2px;
 
-  margin: 0;
-  position: absolute;
   top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
 }
 
 .menu {
