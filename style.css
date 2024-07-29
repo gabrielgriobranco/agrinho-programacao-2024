@@ -8,21 +8,7 @@ p, .header, body{
   border: 0;
 }
 
-.header {
-  height: 120px;
-  line-height: 120px;
-  background-color: #024B2F;
-  color: white;
-  font-family: "Josefin Sans", serif;
-  font-size: 64px;
-  text-align: center;
-  margin: 0;    
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
 
-}
 
 .banner {
   background-image: url("araucaria.png");
@@ -32,16 +18,16 @@ p, .header, body{
   background-size: cover;
   min-height: 500px; 
   height: 800px; 
-}
+
+
+} 
 
 .image-text {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
+  line-height: 120px;
+  background-color: #024B2F;
   color: white;
+  font-family: "Josefin Sans", serif;
   font-size: 64px;
-  font-family: ArnoPro-Caption;
-  font-style:bold;
+  text-align: center;
+  margin: 0;   
 }
