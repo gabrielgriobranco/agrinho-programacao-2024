@@ -35,16 +35,7 @@ p, .header, body{
   align-items: center;
 }
 
-.agronomos {
-  height: 100px;
-  background-color: #238E23;
-  font-family: "Artifika";
-  color: #238E23;
-  font-size: 75px;
-  -webkit-text-stroke-color: white;
-  -webkit-text-stroke-width: 10px;
-  flex: 8.5
-}
+
 
 .menu {
   object-fit:scale-down;
