@@ -40,8 +40,8 @@ p, .header, body{
  flex: 8.5;
  height: 100px;
  color: #238E23;
- text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
-             1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+ text-shadow: 10px 0 #fff, -10px 0 #fff, 0 10px #fff, 0 -10px #fff,
+             5px 5px #fff, -5px -5px #fff, 5px -5px #fff, -5px 5px #fff;
 
 }
 
