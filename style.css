@@ -12,9 +12,6 @@ p, .header, body{
 
 .banner {
   background-image: url("araucaria.png");
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
   min-height: 500px; 
   height: 800px; 
