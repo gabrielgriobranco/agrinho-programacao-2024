@@ -22,7 +22,7 @@ p, .header, body{
 .image-text {
   line-height: 120px;
   color: white;
-  font-family: "Josefin Sans", serif;
+  font-family: "Irish Grover", serif;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
   font-size: 64px;
@@ -42,7 +42,7 @@ p, .header, body{
 .agronomos {
   height: 100px;
   background-color: #238E23;
-  font-family: "Josefin Sans";
+  font-family: "Irish Grover";
   color: #238E23;
   font-size: 70px;
   -webkit-text-stroke-color: white;
