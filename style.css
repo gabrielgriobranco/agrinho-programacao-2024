@@ -28,6 +28,7 @@ p, .header, body{
 
 .agronomos {
   display: inline-block;
+  width: 85%;
 }
 
 .menu {display: inline-block;}
