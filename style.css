@@ -27,8 +27,6 @@ p, .header, body{
 }
 
 .agronomos {
-  display: flex;
-  flex-direction: row;
   align-items: center;
   height: 100px;
 
@@ -38,7 +36,6 @@ p, .header, body{
   font-size: 40px;
   -webkit-text-stroke-color: white;
   -webkit-text-stroke-width: 2px;
-  flex: 8.5;
 }
 
 .menu {
