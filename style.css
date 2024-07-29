@@ -30,4 +30,4 @@ p, .header, body{
   display: inline-block;
 }
 
-.menu {}
+.menu {display: inline-block;}
