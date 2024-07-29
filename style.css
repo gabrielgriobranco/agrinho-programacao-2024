@@ -43,4 +43,5 @@ p, .header, body{
 
 .menu {
   object-fit: cover;
+  height: 100px;
 }
