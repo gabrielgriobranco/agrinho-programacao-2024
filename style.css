@@ -9,7 +9,7 @@ p, .header, body{
 
 .banner {
   background-image: url("araucaria.png");
-  background-size: cover;
+  object-fit: cover;
   min-height: 500px; 
   height: 800px; 
 } 
