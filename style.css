@@ -22,5 +22,6 @@ p, .header, body{
   -webkit-text-stroke-color: black;
   font-size: 64px;
   text-align: center;
+  padding-right: 40px;
   margin: 0;   
 }
