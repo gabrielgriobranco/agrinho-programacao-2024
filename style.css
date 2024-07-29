@@ -37,14 +37,12 @@ p, .header, body{
   font-family: "Artifika";
   font-size: 95px;
   background-color: #238E23; 
- -webkit-text-stroke-color: white;
- -webkit-text-stroke-width: 10px;
  flex: 8.5;
  height: 100px;
 }
 
 .menu {
-  object-fit:contain;
+  object-fit:cover;
   height: 100px;
   flex: 1.5;
 }
