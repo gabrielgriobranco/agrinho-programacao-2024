@@ -19,7 +19,7 @@ p, .header, body{
   line-height: 120px;
   color: white;
   font-family: "Irish Grover", serif;
-  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: white;
   font-size: 64px;
   text-align: left;
@@ -42,7 +42,7 @@ p, .header, body{
   color: #238E23;
   font-size: 70px;
   -webkit-text-stroke-color: white;
-  -webkit-text-stroke-width: 10px;
+  -webkit-text-stroke-width: 5px;
   flex: 8.5
 }
 
