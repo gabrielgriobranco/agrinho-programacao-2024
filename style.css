@@ -8,3 +8,14 @@ font-weight: 300;
 div {
     background-image: linear-gradient(to right, rgb(15, 235, 8), rgb(2, 64, 21));
   }
+
+.topo {
+  text-align: center;
+  height: 400px;
+  line-height: 120px;
+  color: white;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 60px;
+  margin: 0;
+  background-image: url(araucaria.png);
+}
