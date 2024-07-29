@@ -40,7 +40,7 @@ p, .header, body{
  flex: 8.5;
  height: 100px;
  color: #238E23;
- text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 2px #fff,
+ text-shadow: 4px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 2px #fff,
              1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
 
 }
