@@ -44,4 +44,5 @@ p, .header, body{
 .menu {
   display: inline-block;
   flex: 1;
+  object-fit: cover;
 }
