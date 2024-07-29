@@ -28,20 +28,25 @@ p, .header, body{
 
 
 
-
+.sub-cabecalho {
+  display: flex; 
+  flex-direction: row; 
+  align-items: center;
+}
 
 .agronomos {
   height: 100px;
-
   background-color: #238E23;
   font-family: "Josefin Sans";
   color: #238E23;
   font-size: 70px;
   -webkit-text-stroke-color: white;
   -webkit-text-stroke-width: 2px;
+  flex: 8.5
 }
 
 .menu {
   object-fit: cover;
   height: 100px;
+  flex: 1.5;
 }
