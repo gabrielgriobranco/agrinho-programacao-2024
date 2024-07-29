@@ -39,7 +39,7 @@ p, .header, body{
   background-color: #6a5122; 
  flex: 8.5;
  height: 100px;
- color: #6a5122
+ color: #6a5122;
  text-shadow: 4px 0 #fff, -4px 0 #fff, 0 4px #fff, 0 4px #fff,
              2px 2px #fff, -2px -2px #fff, 2px -2px #fff, -2px 2px #fff;
 
