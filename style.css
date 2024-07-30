@@ -39,7 +39,7 @@ background-color: #6A5122;
 font-size: 75px;
 color: #6A5122;
 -webkit-text-stroke-color: white;
--webkit-text-stroke-width: 10px;
+-webkit-text-stroke-width: 6px;
 letter-spacing: 3px;
 }
 
@@ -47,7 +47,7 @@ letter-spacing: 3px;
 
 .menu {
   background-image: url(image\ 10.png);
-  object-fit:fit;
+  object-fit:cover;
   height: 100px;
   flex: 1.5;
 }
