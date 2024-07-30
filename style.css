@@ -62,6 +62,7 @@ margin: 0;
 
 .item-1 {
 flex-direction: column;
+flex: 1;
 }
 
 .imagem-it1 {
