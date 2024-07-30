@@ -33,7 +33,6 @@ p, .header, body{
   align-items: center;
   padding: 0;
   margin: 0;
-
 }
 
 .texto-subcab {
@@ -48,11 +47,37 @@ padding: 0;
 margin: 0;
 }
 
-
-
 .menu {
   background-image: url(image\ 10.png);
   object-fit:cover;
   height: 100px;
   flex: 1.5;
+}
+
+
+.items {
+  display: flex;  
+  align-items:center;
+  padding: 0;
+  margin: 0;
+}
+
+.item-1 {
+  flex-direction: row;
+  flex: 1;
+}
+
+.nome-it1 {
+  flex-direction: column;
+  flex: 1;
+}
+
+.estrelas-it1 {
+  flex-direction: column;
+  flex: 1;
+}
+
+.cidade {
+  flex-direction: column;
+  flex: 1;
 }
