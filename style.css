@@ -34,12 +34,7 @@ p, .header, body{
 }
 
 .texto-subcab {
-  font-family: "Artifika";
-  font-size: 75px;
-  background-color: #6a5122; 
- flex: 8.5;
- height: 100px;
- color: #6a5122;
+flex: 8.5;
 }
 
 .menu {
