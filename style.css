@@ -34,7 +34,12 @@ p, .header, body{
 }
 
 .texto-subcab {
+flex: 8.5;
+margin-top: 5px;
+background-color: #6A5122;
 }
+
+
 
 .menu {
   background-image: url(image\ 10.png);
