@@ -41,7 +41,7 @@ p, .header, body{
  height: 100px;
  color: #6a5122;
  text-shadow: 6px 0 #fff, -6px 0 #fff, 0 6px #fff, 0 6px #fff,
-             4px 4px #fff, -4px -4px #fff, 4px -4px #fff, -4px 4px #fff;
+             6px 6px #fff, -6px -6px #fff, 6px -6px #fff, -6px 6px #fff;
 
 }
 
