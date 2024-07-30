@@ -52,6 +52,10 @@ margin: 0;
   flex: 1.5;
 }
 
+.item-1 {
+  display: flex;
+}
+
 .imagem-it1 {
   flex-direction: row;
 }
