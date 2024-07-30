@@ -62,7 +62,7 @@ margin: 0;
 }
 
 .img-vertflex {
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .item-1 {
