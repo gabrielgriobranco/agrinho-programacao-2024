@@ -54,6 +54,8 @@ margin: 0;
 
 .item-1 {
   display: flex;
+  padding: 0;
+  margin: 0;
 }
 
 .imagem-it1 {
@@ -63,8 +65,6 @@ margin: 0;
 .conteudo-it1 {  
   display: flex;
   align-items:center;
-  padding: 0;
-  margin: 0;
   flex-direction: column;
 }
 
