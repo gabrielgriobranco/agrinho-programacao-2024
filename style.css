@@ -37,9 +37,7 @@ p, div, body{
 flex: 8.5;
 background-color: #6A5122;
 font-size: 75px;
-color: #6A5122;
--webkit-text-stroke-color: white;
--webkit-text-stroke-width: 3px;
+color: white;
 letter-spacing: 3px;
 padding: 0;
 margin: 0;
@@ -85,6 +83,9 @@ margin: 0;
 
 .estrelas-it1 {
   flex: 1;
+  align-items: start;
+  justify-content: start;
+  font-size: 40px;
 }
 
 .cidade {
