@@ -6,8 +6,6 @@ p, .header, body{
   border: 0;
 }
 
-
-
 .banner {
   background-image: url("araucaria.png");
   object-fit: cover;
@@ -63,7 +61,7 @@ margin: 0;
 }
 
 .item-1 {
-
+flex-direction: column;
 }
 
 .imagem-it1 {
@@ -71,16 +69,13 @@ margin: 0;
 }
 
 .nome-it1 {
-  flex-direction: column;
   flex: 1;
 }
 
 .estrelas-it1 {
-  flex-direction: column;
   flex: 1;
 }
 
 .cidade {
-  flex-direction: column;
   flex: 1;
 }
