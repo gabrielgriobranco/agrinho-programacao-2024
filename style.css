@@ -134,3 +134,9 @@ margin: 0;
   margin: 0;
   margin-right: auto;
 }
+
+.imagem-it1 {
+  flex-direction: row;
+  align-items:center;
+  justify-content: start;
+}
