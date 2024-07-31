@@ -137,6 +137,6 @@ margin: 0;
 
 .imagem-it1 {
   flex-direction: row;
-  align-items:center;
+  align-items: left;
   justify-content: start;
 }
