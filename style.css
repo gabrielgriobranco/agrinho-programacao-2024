@@ -92,5 +92,7 @@ margin: 0;
 .cidade {
   flex: 1;
   font-size: 40px;
+  height: 60px;
+  margin-left: 0;
   text-align: left;
 }
