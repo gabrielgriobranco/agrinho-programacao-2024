@@ -84,6 +84,7 @@ margin: 0;
 
 .estrelas-it1 {
   flex: 1;
+  position: relative;
   align-items: start;
   justify-content: flex-start;
   font-size:40px;
