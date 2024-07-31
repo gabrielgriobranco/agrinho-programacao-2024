@@ -83,12 +83,10 @@ margin: 0;
 
 .estrelas-it1 {
   flex: 1;
- /* align-items: start;
-  justify-content: start; */
+  align-items: start;
+  justify-content: start;
   font-size:40px;
   height: 60px;
-  text-align: left;
-  margin: 0;
 }
 
 .cidade {
