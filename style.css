@@ -83,7 +83,7 @@ margin: 0;
 
 .estrelas-it1 {
   flex: 1;
-  align-items: left;
+  align-items: start;
   justify-content: start;
   font-size:40px;
   height: 60px;
