@@ -187,11 +187,10 @@ margin: 0;
   margin-right: auto;
 }
 
- .rodapé{
-  img {
-    margin: 20px; /* Espaço ao redor da imagem */
-    padding: 10px; /* Espaço interno ao redor do conteúdo da imagem */
-  }
+ .rodapé{ 
+    position: absolute; /* Pode ser 'relative', 'absolute', 'fixed' ou 'sticky' */
+    top: 50px; /* Distância do topo do contêiner ou da página */
+    left: 100px; /* Distância da esquerda do contêiner ou da página */
+}
 
-   }
 
