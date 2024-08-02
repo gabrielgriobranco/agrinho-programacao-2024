@@ -188,6 +188,11 @@ margin: 0;
 }
 
  .rodapé
- 
-  background: linear-gradient(to bottom, #238E23, #238E23);
+   .retangulo {
+       width: 200px;      /* Largura do retângulo */
+       height: 100px;     /* Altura do retângulo */
+       background-color: #4CAF50; /* Cor de fundo */
+       border: 2px solid #333; /* Borda opcional */
+       margin: 20px; /* Espaçamento opcional */
+   }
 
