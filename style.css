@@ -61,7 +61,7 @@ margin: 0;
 .imagem-it1 {
   flex-direction: row;
   align-items: left;
-  justify-content: flex-start;
+  justify-content: flex-start
 }
 
 .conteudo-it1 {  
@@ -141,9 +141,6 @@ margin: 0;
   flex-direction: row;
   align-items: left;
   justify-content: flex-start;
-  position: absolute; /* Pode ser 'relative', 'absolute', 'fixed' ou 'sticky' */
-  top: 1800px; /* Distância do topo do contêiner ou da página */
-  left: 0; /* Distância da esquerda do contêiner ou da página */
 }
 
 .conteudo-it1 {  
