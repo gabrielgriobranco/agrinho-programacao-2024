@@ -189,7 +189,7 @@ margin: 0;
 
  .rodapé{ 
     position: absolute; /* Pode ser 'relative', 'absolute', 'fixed' ou 'sticky' */
-    top: 300px; /* Distância do topo do contêiner ou da página */
+    top: 1000px; /* Distância do topo do contêiner ou da página */
     left: 100px; /* Distância da esquerda do contêiner ou da página */
 }
 
