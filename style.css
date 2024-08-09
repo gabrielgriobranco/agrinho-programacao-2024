@@ -137,6 +137,6 @@ margin: 0;
 
 @media (max-width: 400px) {
   .rodapé{
-    width: 400px;
+    width: 100%;
   }
 }
