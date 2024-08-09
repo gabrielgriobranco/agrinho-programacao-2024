@@ -133,6 +133,7 @@ margin: 0;
     position: absolute; 
     top: 1400px; 
     left: 0; 
+    width: 60%;
 }
 
 @media (max-width: 400px) {
